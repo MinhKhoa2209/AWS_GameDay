@@ -1,0 +1,8 @@
+ignored: 
+  - DL3000 
+  - DL3025 
+  - DL3042
+  - DL3059
+  #- DL3031 #This blocks yum updates!
+trustedRegistries: 
+  - personalrepo.com
